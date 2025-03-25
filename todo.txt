@@ -1,0 +1,7 @@
+1. Go to Github.com
+2. Create a New Repo
+3. Get the link
+4. clone it using the link in your local Repo
+
+
+This is just used to show my development branch
