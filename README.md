@@ -18,4 +18,4 @@ there are some txt files you can open them and check them
 .........................
 This is the line i am gonna make changes so that i will describe how i fixed the merge conflicts 
 
-When i first started programming (I begin with Python) the first code i write was print("Hello World").
+When i first started programming (I begin with C) the first code i write was print("Hello World")
